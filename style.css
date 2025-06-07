@@ -1,0 +1,453 @@
+#mobileproject
+{
+    background-image: url(apple\ wl\ paper.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 7px solid rgba(0, 0, 0, 0.765);
+    margin:50px auto;
+    border-radius: 54px;
+    height: 580px;
+    width: 290px;
+}
+#upper2div{
+    height: 150px;
+    width: 290px;
+    margin-top: 34px;
+    display: flex;
+    gap: 20px;
+    
+}
+#weather{
+    height:120px;
+    width: 120px;
+    background-color: rgba(117, 194, 152, 0.34);
+    display: inline-block;
+    margin-left: 24px;
+    margin-top: 15px;
+    color: white;
+    border-radius: 20px;
+    border: 2px solid rgba(0, 0, 0, 0.263);
+
+}
+#calender{
+    height:120px;
+    width: 120px;
+    background-color: rgba(217, 199, 199, 0.852);
+    display: inline-block;
+    margin-top:15px;
+    margin-right: 23px;
+    border-radius: 20px;
+    border: 2px solid rgba(0, 0, 0, 0.395);
+}
+#underlineword{
+    height: 15px;
+    width: auto;
+    margin-top: -12px;
+    margin-left: 2px;
+    color: white;
+}
+#underweather
+{
+   height: 14px;
+   width: auto;
+    display:inline-block;
+    font-size: medium;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 34px;
+
+}
+#undercalender
+{
+   height: 14px;
+   width: auto;
+    display: inline-block;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 100px;
+ }
+ #appsmain1
+ {
+    height:55px;
+    width: auto;
+    display: flex;
+    gap: 15px;
+    margin-top: 15px;
+    margin-left: 1px;
+ }
+ #facetime
+ {
+    height: 50px;
+    width: 50px;
+    background-image: url(FaceTime_iOS.png);
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    background-color: black;
+    margin-left: 16px;
+ }
+ #calender02
+ {
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+    background-image: url(Apple_Calendar_\(iOS\).svg.png);
+    background-position: center;
+    background-size: cover;
+ }
+ #photos
+ {
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+    background-image: url(Apple_Photos-512.webp);
+    background-position: center;
+    background-size: cover;
+ }
+ #camera
+ {
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+    background-image: url(a229bcc27486ab032dcb65681711214b.jpg);
+    background-position: center;
+    background-size: cover;
+ }
+ #underlineappmain
+ {
+    height: 15px;
+    width: auto;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left:0px;
+    margin-top: -3px;
+ }
+ #FT{
+    height: 14px;
+    width: auto;
+    display: inline-block;
+    margin-left: -5px;
+    font-size: small;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ #C2{
+    height: 14px;
+    width: auto;
+    display: inline-block;
+    font-size: small;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+ }
+ #PS{
+    height: 14px;
+    width: auto;
+    display: inline-block;
+    font-size: small;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+ }
+ #CA{
+    height: 14px;
+    width: auto;
+    display: inline-block;
+    font-size:small;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ 
+ #appsmain2
+ {
+    height:55px;
+    width: auto;
+    display: flex;
+    gap: 15px;
+    margin-top: 15px;
+    margin-left: 4px;
+    
+ }
+ #mail
+ {
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    background-image: url(Mail_\(iOS\).svg.png);
+    margin-left: 16px;
+ }
+ #note
+ {
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+    background-image: url(note\ logo.webp);
+    background-position: center;
+    background-size: cover;
+ }
+ #jiosaavn
+ {
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+    background-image: url(jiosaavan\ logo.png);
+    background-position: center;
+    background-size: cover;
+ }
+ #tv
+ {
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+    background-image: url(tvapple.png);
+    background-position: center;
+    background-size: cover;
+ }
+ #underlineappmain2
+ {
+    height: 15px;
+    width: auto;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left:0px;
+    margin-top: -3px;
+ }
+ #ML{
+    height: 14px;
+    width: auto;
+    display: inline-block;
+    margin-left: -5px;
+    font-size: small;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ #NE{
+    height: 14px;
+    width: auto;
+    display: inline-block;
+    font-size: small;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+ }
+ #JN{
+    height: 14px;
+    width: auto;
+    display: inline-block;
+    font-size: small;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+ }
+ /* 🔘 Pressed animation for app icons */
+#facetime:active,
+#calender02:active,
+#photos:active,
+#camera:active,
+#mail:active,
+#note:active,
+#jiosaavn:active,
+#tv:active,
+#call:active,
+#flipkart:active,
+#pw:active,
+#grow:active {
+    transform: scale(0.92);
+    filter: brightness(85%);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.4);
+}
+#search button:active {
+    transform: scale(0.95);
+    background-color: rgba(200, 200, 200, 0.3);
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+    color: #ffd;
+}
+
+ #ATV{
+    height: 14px;
+    width: auto;
+    display: inline-block;
+    font-size:small;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ 
+ #tv:hover
+ {
+    height: 50px;
+    width: 55px;
+    border-radius:25px ;
+ }
+ #jiosaavn:hover
+ {
+    height: 50px;
+    width: 55px;
+    border-radius:25px ;
+ }
+ #mail:hover{
+    height: 50px;
+    width: 55px;
+    border-radius:25px;
+ }
+ #calender02:hover
+ {
+    height: 50px;
+    width: 55px;
+    border-radius:25px;
+ }
+ 
+ #CA:HOVER,
+ #ATV:hover,#JN:hover,#NE:hover,#ML:hover,#CA:hover,#PS:hover,#C2:hover,#FT:hover
+ {
+    font-size: large;
+ }
+ @keyframes bounce 
+ {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-8px); }
+ }
+
+ #facetime:hover,
+ #calender02:hover,
+ #photos:hover,
+ #camera:hover,
+ #mail:hover,
+ #note:hover,
+ #jiosaavn:hover,
+ #tv:hover,
+ #call:hover,
+ #flipkart:hover,
+ #pw:hover,
+ #grow:hover 
+ {
+   animation: bounce 0.4s ease;
+ }
+
+ #photos:hover,#calneder02:hover,#mail:hover,#jiosaavan:hover,#tv:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px 3px rgba(255, 255, 255, 0.6);
+ }
+ #jiosaavan:hover,#note:hover,#camera:hover,#photos:hover,#calender02:hover,#facetime:hover
+ {
+    height: 50px;
+    width: 55px;
+    border-radius:25px;
+ }
+ #jiosaavan:hover,#note:hover,#camera:hover,#calender02:hover
+ {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px 3px rgba(255, 255, 255, 0.6);
+ }
+
+ #grow:hover,#flipkart:hover,#pw:hover,#call:hover
+ {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px 3px rgba(255, 255, 255, 0.6);
+    height: 50px;
+    width: 55px;
+    border-radius:25px;
+ }
+ #camera
+ {
+    height: 50px;
+    width: 55px;
+    border-radius:25px;
+ }
+ #photos
+ {
+    height: 50px;
+    width: 55px;
+    border-radius:25px;
+ }
+ #appsmain3
+ {
+    height:55px;
+    width: auto;
+    display: flex;
+    gap: 15px;
+    margin-top: 153px;
+    margin-left: 5px;
+    
+ }
+ #call
+ {
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    background-image: url(call\ logo.webp);
+    margin-left: 16px;
+ }
+ #flipkart
+ {
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+    background-image: url(flipkart_icon-icons.webp);
+    background-position: center;
+    background-size: cover;
+ }
+ #grow
+ {
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+    background-image: url(groww-logo-270.webp);
+    background-position: center;
+    background-size: cover;
+ }
+ #pw
+ {
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+    background-image: url(20221021102906.webp);
+    background-position: center;
+    background-size: cover;
+    margin-top: 2px;
+
+ }
+ #appsmain3layout
+ {
+    height:54px;
+    width: 280px;
+    background-color: rgba(154, 134, 131,0.3);
+    border-radius:34px;
+    margin-left: 5px;
+ }
+ #search{
+    margin-top:-96px;
+    margin-left: 115px;
+    border-radius: 30px;
+
+ }
+ #backbtn{
+    height: 2px;
+    width: 100px;
+    background-color: white;
+    margin-top: 86px;
+    margin-left: 100px;
+ }
+ #cameradiv
+ {
+    height: 18px;
+    width: 93px;
+    background-color: rgba(6, 5, 5, 1);
+    border-radius: 20px;
+    border: 2px solid grey;
+    margin-top: -565PX;
+    margin-left: 90px;}
+#bg-video {
+position: fixed;
+top: 0;
+left: 0;
+min-width: 100%;
+min-height: 100%;
+object-fit: cover;
+z-index: -1;
+}
